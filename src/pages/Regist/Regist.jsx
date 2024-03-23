@@ -14,7 +14,6 @@ const Regist = () => {
         watch
     } = useForm()
 
-
     const navigate = useNavigate()
 
     const onSubmit = async(data) => {

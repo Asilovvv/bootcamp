@@ -15,5 +15,5 @@ export function AuthProvider(props){
         setIsAuth
     }
 
-    return <AuthContext.Provider value={value}>{props.children}</AuthContext.Provider>
+    return <AuthContext.Provider value={value}>{props.childre}</AuthContext.Provider>
 }
