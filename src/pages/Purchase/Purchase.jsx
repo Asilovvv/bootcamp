@@ -19,11 +19,13 @@ const Purchase = () => {
     }, []);
     
 
+
     return (
         <section>
             <Card/>
         </section>
     );
 };
+
 
 export default Purchase;
